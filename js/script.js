@@ -7,4 +7,4 @@ function changeImage() {
   currentIndex = (currentIndex + 1) % images.length;
 }
 
-setInterval(changeImage, 4000);
+setInterval(changeImage, 5000);
